@@ -48,7 +48,7 @@
 
 実際に完成し、自分で内容を説明できるものだけを掲載します。
 
-### 🖥️ Ubuntu Server「零号機」
+### 🖥️ [Ubuntu Server「零号機」](./projects/zero-machine/README.md)
 
 UTM上に構築したUbuntu Serverの学習環境。
 
