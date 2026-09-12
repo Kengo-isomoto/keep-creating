@@ -27,6 +27,8 @@
 **LEVEL 0 / 5**  
 `[□][□][□][□][□]`
 
+[LEVEL詳細を見る](./skills/network/README.md)
+
 ### 🌱 Git / GitHub
 
 **LEVEL 0 / 3**  
