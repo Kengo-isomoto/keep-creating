@@ -20,6 +20,8 @@
 **LEVEL 0 / 5**  
 `[□][□][□][□][□]`
 
+[LEVEL詳細を見る](./skills/linux-server/README.md)
+
 ### 🌐 Network
 
 **LEVEL 0 / 5**  
