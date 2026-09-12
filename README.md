@@ -41,6 +41,8 @@
 **LEVEL 0 / 3**  
 `[□][□][□]`
 
+[LEVEL詳細を見る](./skills/generative-ai/README.md)
+
 
 ## 🧪 Projects / Evidence
 
