@@ -6,6 +6,6 @@
 
 ## [LEVEL 3｜使い方の型化・改善](./level-3.md)
 
-全LEVELで、状況・目的の理解、操作の選択・実行、結果の判断・説明を確認します。環境や実行場所の理解も含め、[全分野・全LEVEL共通基準](../../README.md#questlevel-checkの共通基準)に従います。
+各LEVELは、本人のアウトプットを確認して判定します。
 
 [KEEP CREATING トップへ](../../README.md)
