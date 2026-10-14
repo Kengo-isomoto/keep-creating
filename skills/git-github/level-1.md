@@ -7,11 +7,13 @@
 
 ### Quest
 
-- [ ] Repositoryと作業場所を確認する
-- [ ] ファイルを変更し、Diffで変更内容を確認する
-- [ ] Commitする変更を選択する
-- [ ] 内容が分かるCommitを作成する
-- [ ] PushしてGitHub上の反映を確認する
+Questの✓は、目的・方法・結果の意味について理解を確認したことを表します。実際に操作し、結果を判断・説明できるかはLEVEL CHECKで確認します。
+
+- [ ] Repositoryと作業場所の関係が分かる
+- [ ] Diffで何を確認するか分かる
+- [ ] Commitする変更の選び方が分かる
+- [ ] Commitの役割と内容が伝わるメッセージの付け方が分かる
+- [ ] Pushの役割とGitHub上で反映を確認する方法が分かる
 
 [Git / GitHub LEVEL 1〜3 一覧へ](./README.md)  
 [KEEP CREATING トップへ](../../README.md)
