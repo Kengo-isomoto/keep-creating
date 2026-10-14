@@ -13,7 +13,7 @@ Questの✓は、目的・方法・結果の意味について理解を確認し
 - [x] Diffで何を確認するか分かる
 - [x] Commitする変更の選び方が分かる
 - [x] Commitの役割と内容が伝わるメッセージの付け方が分かる
-- [ ] Pushの役割とGitHub上で反映を確認する方法が分かる
+- [x] Pushの役割とGitHub上で反映を確認する方法が分かる
 
 [Git / GitHub LEVEL 1〜3 一覧へ](./README.md)  
 [KEEP CREATING トップへ](../../README.md)
