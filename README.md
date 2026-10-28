@@ -52,6 +52,10 @@
 
 UTM上に構築したUbuntu Serverの学習環境。
 
+### 🏫 [AlmaLinux｜学校実習](./projects/almalinux-school/README.md)
+
+職業訓練校のAlmaLinux環境で行ったLinux / Server実習。
+
 ### 📋 Documentation / Testing
 
 学習・実践の中で作成した手順書、試験結果、技術レポートなどを、完成した段階で掲載します。
