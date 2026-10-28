@@ -31,14 +31,14 @@
 
 ### 🌱 Git / GitHub
 
-**LEVEL 0 / 3**  
+**LEVEL 1 / 3**  
 `[■][□][□]`
 
 [LEVEL詳細を見る](./skills/git-github/README.md)
 
 ### 🤖 Generative AI
 
-**LEVEL 0 / 3**  
+**LEVEL 1 / 3**  
 `[■][□][□]`
 
 [LEVEL詳細を見る](./skills/generative-ai/README.md)
