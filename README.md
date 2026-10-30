@@ -24,8 +24,8 @@
 
 ### 🌐 Network
 
-**LEVEL 0 / 5**  
-`[□][□][□][□][□]`
+**LEVEL 1 / 5**  
+`[■][□][□][□][□]`
 
 [LEVEL詳細を見る](./skills/network/README.md)
 
